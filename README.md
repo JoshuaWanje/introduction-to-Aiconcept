@@ -18,10 +18,13 @@ A collaborative guide by
  capable of performing tasks typically requiring human intelligence. 
 
 ## machine learning
+
 <!-- [Team Member 1 Name] will write this section -->
 
 ## NLP
+
 <!-- [Team Member 2 Name] will write this section -->
 
 ## AI Ethics
+
 <!-- [Team Member 3 Name] will write this section -->
