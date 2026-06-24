@@ -27,10 +27,12 @@ A collaborative guide by
 
 ## AI Ethics
 **AI Ethics** is a multidisciplinary field focused on the moral principles and guidelines required to design, deploy, and govern artificial intelligence responsibly
+
 ### Core Principles of Ethical AI
--Fairness & Equity: Algorithms must treat all individuals fairly, actively mitigating biases embedded in training data to prevent discrimination in areas like hiring and lending.
--Privacy & Security: AI tools must safeguard sensitive personal data and be resilient to cyber-attacks or technical failures.
--Accountability: There must be clear human responsibility and liability for the outcomes of an AI system, allowing for traceability and external audits.
+-Fairness & Equity
+-Privacy & Security
+-Accountability
+
 ### Why AI Ethics Matters
 Without ethical oversight, AI can cause severe real-world harm, including discrimination in recruitment, biased judicial or law enforcement decisions, and the spread of inaccurate or harmful generative content. Failing to uphold ethical standards can also expose organizations to steep legal penalties, loss of user trust, and major reputational damage
 
