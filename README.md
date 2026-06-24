@@ -28,8 +28,8 @@ A collaborative guide by
 ### Core Processing 
 NLP works by converting unstructured human text or speech into structured data that a computer can analyze.
 1. Text Preprocessing (Cleaning the Input)
-  .Tokenization: Breaking sentences into smaller units like words or subword
-  . Lowercasing: Converting all text to lowercase to ensure consistency.
+ -Tokenization: Breaking sentences into smaller units like words or subword
+  - Lowercasing: Converting all text to lowercase to ensure consistency.
 
 ### Why NLP  Matters
 NLP matters because humans communicate in unstructured text and speech, while computers require structured numbers. NLP bridges this gap, unlocking value across technology, business, and daily life
