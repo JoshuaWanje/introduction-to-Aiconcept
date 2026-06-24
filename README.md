@@ -14,7 +14,7 @@ A collaborative guide by
 
 ## Introduction
  These is an introduction to key Artificial Intelligence(AI)
- concepts.AI is a field of ccomputer science that builds systems
+ concepts.AI is a field of computer science that builds systems
  capable of performing tasks typically requiring human intelligence. 
 
 ## machine learning
@@ -47,4 +47,4 @@ NLP matters because humans communicate in unstructured text and speech, while co
 Without ethical oversight, AI can cause severe real-world harm, including discrimination in recruitment, biased judicial or law enforcement decisions, and the spread of inaccurate or harmful generative content. Failing to uphold ethical standards can also expose organizations to steep legal penalties, loss of user trust, and major reputational damage
 
 ### Useful links
-[Ai Ethics]( https://Springer AI and Ethics Journal).
+[Ai Ethics]( https://Springer/AI and Ethics Journal).
