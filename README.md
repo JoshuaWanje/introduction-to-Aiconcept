@@ -31,7 +31,7 @@ NLP works by converting unstructured human text or speech into structured data t
   .Tokenization: Breaking sentences into smaller units like words or subword
   . Lowercasing: Converting all text to lowercase to ensure consistency.
 
-### Why NLP Ethics Matters
+### Why NLP  Matters
 NLP matters because humans communicate in unstructured text and speech, while computers require structured numbers. NLP bridges this gap, unlocking value across technology, business, and daily life
 
 
